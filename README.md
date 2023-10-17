@@ -1,1 +1,2 @@
 # microsoftsqlserver
+university purposes
